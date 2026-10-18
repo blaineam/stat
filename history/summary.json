@@ -6,14 +6,14 @@
     "slug": "blaine-s-portfolio",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.86%",
     "time": 175,
-    "timeDay": 155,
-    "timeWeek": 208,
-    "timeMonth": 182,
+    "timeDay": 173,
+    "timeWeek": 212,
+    "timeMonth": 181,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2026-02-04": 16,
@@ -42,8 +42,7 @@
       "2026-10-06": 49,
       "2026-10-08": 55,
       "2026-10-13": 21,
-      "2026-10-16": 20,
-      "2026-10-17": 11
+      "2026-10-16": 20
     }
   },
   {
@@ -57,11 +56,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
-    "time": 494,
-    "timeDay": 967,
-    "timeWeek": 3191,
-    "timeMonth": 1520,
-    "timeYear": 561,
+    "time": 493,
+    "timeDay": 690,
+    "timeWeek": 3088,
+    "timeMonth": 1510,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2025-11-18": 113,
       "2026-09-06": 65,
